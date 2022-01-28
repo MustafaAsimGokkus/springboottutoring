@@ -1,4 +1,4 @@
-package com.techpro.springboottutoring;
+package reastapi1controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

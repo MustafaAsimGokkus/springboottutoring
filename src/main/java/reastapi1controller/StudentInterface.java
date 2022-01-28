@@ -1,4 +1,4 @@
-package com.techpro.springboottutoring;
+package reastapi1controller;
 
 public interface StudentInterface {
   String study();

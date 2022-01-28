@@ -1,4 +1,4 @@
-package com.techpro.springboottutoring;
+package reastapi1controller;
 import org.springframework.stereotype.Component;
 @Component
 public class StudentBean01 implements StudentInterface {
